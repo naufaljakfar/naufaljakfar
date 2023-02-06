@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naufaljakfar
 - 👀 I’m interested in everything.
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
